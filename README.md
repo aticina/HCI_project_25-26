@@ -7,7 +7,7 @@ This below is copy-pasted template for README document-it will require updating 
 
 - [Project Structure](#project-structure)
 - [My Project Links](#my-project-links)
-  - [Semester Project](https://github.com/aticina/HCI_project_25-26/blob/main/docs/Written%20summary)
+  - [Semester Project](#semester-project)
   - [Semester Assignments](#semester-assignments)
 - [Project Requirements](#project-requirements)
   - [Web Application Requirements](#web-application-requirements)
