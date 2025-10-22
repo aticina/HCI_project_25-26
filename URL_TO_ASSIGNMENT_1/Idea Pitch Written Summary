@@ -1,0 +1,9 @@
+Project title: Kulinarski Pomoćnik
+Problem statement: Osoba treba pripremiti obrok, ali: nema puno namirnica, umorna je, nema inspiracije, nema puno vremena ni energije za traženje i provjeravanje recepata na Internetu.
+Želi jednostavan i brz obrok u 30-60 minuta.
+Target users: oni koji kuhaju te imaju ograničene resurse, umorni su, neispirirani su, ne žele previše razmišljati o tome što i kako pripremiti
+Proposed solution: Jednostavna web aplikacija koja ima bazu recepata koji su spremljeni, označeni i prezentirani na specifičan način. Korisnik ima vlastiti profil na kojemu može pohraniti svoje omiljene recepte.
+Osnovni mehanizam rada aplikacije je upisivanje nekoliko namirnica u tražilicu na što aplikacija kao rezultat vrati recepte koje je moguće napraviti s tim namirnicama. Odabirom recepta korisnik bi dobio jasne korake
+za izradu jela, neke radnje i tehnike bi bile boldane i klikom na njih korisnik dobiva mali tutorial/savjet u slučaju da nije siguran kako nešto napraviti. Aplikacija bi ostala uključena za vrijeme kuhanja, možda
+bi mogla odgovarati na verbalne naredbe i postavljati tajmere.
+How idea came to be: osobno iskustvo učenja raznih stvari vezanih za kuhanje poput tehnika, prepoznavanja smislenih recepata, potrebe za obrokom za sebe i obitelj (pogotovo za vrijeme ispita)
