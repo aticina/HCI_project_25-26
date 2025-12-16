@@ -17,3 +17,7 @@ SITEMAP
 
 Homepage(before login) does not have any sitemap options. (only search bar and log in button)
 Homepage presents options: MY KITCHEN, LEARNING, BLOG, PROFILE AND SETTINGS.
+
+BLOG contains posts from users. Posts contain user made recipe they wish to share with others. That post itself is not a recipe other users can insert into Cook Mode and use right away cause it is unlikely that recipe will fit app format, each recipe has to fit
+app format in order for app to be able to showcase it in Cook Mode in a right way. Others can "upvote/like" a certain post and when it hits predfined number of "upvotes/likes" an admin or developer or whoever works on app will be tasked with correctlly formating
+recipe from the post so it can be added to the base with other recipes and opened in Cook Mode.
