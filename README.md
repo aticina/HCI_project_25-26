@@ -29,7 +29,7 @@ This below is copy-pasted template for README document-it will require updating 
 
 ### Semester Assignments
 
-- Link to Assignment 1: [**Assignment 1**](assignment/1) <!-- Replace with actual URL -->
+- Link to Assignment 1: [**Assignment 1**](assignments/1) <!-- Replace with actual URL -->
 - Link to Assignment 2: [**Assignment 2**](assignments/2) <!-- Replace with actual URL -->
 - Link to Assignment 3: [**Assignment 3**](URL_TO_ASSIGNMENT_3) <!-- Replace with actual URL -->
 - Link to Assignment 4: [**Assignment 4**](assignments/4)
